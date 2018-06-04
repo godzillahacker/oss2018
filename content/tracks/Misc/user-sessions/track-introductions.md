@@ -18,6 +18,7 @@ participants :
     - Francois Raynaud
     - Steven Wierckx
     - Tony Richards
+    - Stephanie Vanroelen
 description  :
 ---
 
