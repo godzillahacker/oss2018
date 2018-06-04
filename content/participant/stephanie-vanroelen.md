@@ -20,6 +20,9 @@ eventbrite_id   :
 status          : 
 pre_summit      : 
 sessions: 
+- Mobile Security Working Session
+- iOS 11 Security Whitepaper
+- Android Security Android Oreo
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): 
 
