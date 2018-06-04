@@ -20,6 +20,12 @@ eventbrite_id   :
 status          : 
 pre_summit      : 
 sessions: 
+- OWASP TESTING GUIDE V5
+- Update MSTG with changes in Android 8 (Oreo)
+- Update MSTG with changes in iOS 11	
+- Women in Cyber-security: improving the gender balance
+- IoT Threat Modeling Cheat Sheet
+- 
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): 
 
